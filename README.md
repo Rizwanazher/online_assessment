@@ -3,11 +3,11 @@ This is an online assessment platform made by Rizwan Azher Saudager and Samina A
 And this is the public IP address of our deployed project- 13.211.207.189 and link for the same- http://13.211.207.189
 And we also host our project in git hub and this is the link- https://rizwanazher.github.io/online_assessment/
 # Developers:
-  1. Samina Abbas 
-    GitHub profile - https://github.com/saminaabbas
+  1. Samina Abbas.<br> 
+     #GitHub profile - https://github.com/saminaabbas
 
-  2. Rizwan azher saudager
-    GitHub profile - https://github.com/Rizwanazher
+  2. Rizwan azher saudager.<br>
+     #GitHub profile - https://github.com/Rizwanazher
 
 # Specifications:
 1. The assessment is MCQ based.
