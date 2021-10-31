@@ -3,8 +3,9 @@ This is an online assessment platform made by Rizwan Azher Saudager and Samina A
 Following is the public IP address of our deployed project- 13.211.207.189 and the link for the same is- http://13.211.207.189
 We have also hosted our application on GitHub and following is the link for the same- https://rizwanazher.github.io/online_assessment/
 # Admin_page:
-link for the deployed admin page on github is - https://rizwanazher.github.io/admin-page/
-link for the admin page github repository is -  https://github.com/Rizwanazher/admin-page
+1. link for the deployed admin page on github is - https://rizwanazher.github.io/admin-page/ 
+
+2. link for the admin page github repository is -  https://github.com/Rizwanazher/admin-page
 # Developers:
   1. Samina Abbas.<br> 
      #GitHub profile - https://github.com/saminaabbas
