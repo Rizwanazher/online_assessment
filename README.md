@@ -1,5 +1,5 @@
 # Final_Project:
-This is an online assessment platform made by Rizwan Azher Saudager and Samina Abbas as the final project of Walkover University training program. The technologies that have been used to create the web application are HTML, CSS, JavaScript and Bootstrap and for deployment we uses aws cloud and jenkins as a CI/CD tool.
+This is an online assessment platform made by Rizwan Azher Saudager and Samina Abbas as the final project of Walkover University training program. The technologies that have been used to create the web application are HTML, CSS, JavaScript and for deployment we uses aws cloud and jenkins as a CI/CD tool.
 Following is the public IP address of our deployed project- 13.211.207.189 and the link for the same is- http://13.211.207.189
 We have also hosted our application on GitHub and following is the link for the same- https://rizwanazher.github.io/online_assessment/
 # Admin_page:
@@ -29,7 +29,7 @@ We have also hosted our application on GitHub and following is the link for the 
 1. HTML
 2. CSS
 3. Javascript
-4. Bootstrap
+
 
 # Deployment:
  ---The deployment of the website has been done using AWS EC2 instance---
